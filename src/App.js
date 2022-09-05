@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <div className="container">
 
-        <Weather />
+        <Weather city="Kyiv" />
         <footer>
           This app was coded by me as
           <a href="https://github.com/gannasy/react-weather-search" target="_blank"> open-sourced</a>
